@@ -4,7 +4,7 @@ Simplified Hanabi Card Game.
 There are two players, which has one goal - to fold all cards from hand using specific rules, which you could read on the following link: https://en.wikipedia.org/wiki/Hanabi_(card_game)
 
 How to play:</br>
-Start new game with command "Start new game with deck DECK"</br>
+<i>Start new game with command <b>Start new game with deck DECK</b></i></br>
 Play card with command "Play card CARD_NUMBER" </br>
 Drop card with command "Drop card CARD_NUMBER"</br>
 Tell rank to your teammate with command "Tell rank RANK for cards NUMBER_OF_CARDS";</br>
