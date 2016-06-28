@@ -8,7 +8,7 @@ How to play:</br>
 <i>Play card with command <b>Play card CARD_NUMBER"</b></i></br>
 <i>Drop card with command <b>Drop card CARD_NUMBER"</b></i></br>
 <i>Tell rank to your teammate with command <b>Tell rank RANK for cards NUMBER_OF_CARDS</b></i></br>
-<i>Tell color to your teammate with command <b>"Tell color COLOR for cards NUMBER_OF_CARDS</b></i></br>
+<i>Tell color to your teammate with command <b>Tell color COLOR for cards NUMBER_OF_CARDS</b></i></br>
 
 </br>
 <b>RANK</b> - is a number from 1 to 5</br>
